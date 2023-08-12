@@ -3,19 +3,20 @@ const content = [
     "React is extremely popular",
     "It makes building complex, interactive UIs a breeze",
     "It's powerful & flexible",
-    "It has a very active and versatile ecosystem"
+    "It has a very active and versatile ecosystem",
+    "React is a library to use native web apps"
   ],
   [
     "Components, JSX & Props",
     "State",
     "Hooks (e.g., useEffect())",
-    "Dynamic rendering"
+    "Dynamic rendering",
   ],
   [
     "Official web page (react.dev)",
     "Next.js (Fullstack framework)",
-    "React Native (build native mobile apps with React)"
-  ]
+    "React Native (build native mobile apps with React)",
+  ],
 ];
 
 const btnWhyReact = document.getElementById("btn-why-react");
